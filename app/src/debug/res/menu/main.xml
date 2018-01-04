@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/sort_filter"
+        android:icon="@drawable/sort"
+        android:orderInCategory="200"
+        app:showAsAction="always"
+        android:title="@string/filter"/>
+
+    <item
+        android:id="@+id/menu_favorites"
+        android:icon="@drawable/golden_star"
+        android:orderInCategory="200"
+        app:showAsAction="ifRoom|withText"
+        android:title="@string/favorites"/>
+</menu>

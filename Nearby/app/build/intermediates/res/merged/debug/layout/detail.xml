@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/layout_item"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/dImage"
+            android:layout_marginTop="8dp"
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:layout_centerHorizontal="true"
+            android:contentDescription="@string/hotel_image"/>
+
+        <TextView
+            android:id="@+id/dNameText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_marginTop="13dp"
+            android:layout_below="@+id/dImage"
+            android:layout_centerHorizontal="true"/>
+
+        <ImageView
+            android:id="@+id/dUrlImage"
+            android:layout_width="150dp"
+            android:layout_height="20dp"
+            android:layout_marginTop="13dp"
+            android:layout_below="@+id/dNameText"
+            android:layout_marginStart="2dp"
+            android:contentDescription="@string/rating_image"/>
+
+        <TextView
+            android:id="@+id/dReviewCount"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="13dp"
+            android:layout_toRightOf="@+id/dUrlImage"
+            android:textColor="@color/colorPrimaryDark"
+            android:layout_below="@+id/dNameText" />
+
+        <TextView
+            android:id="@+id/dRatingText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/dUrlImage"
+            android:layout_marginStart="25dp"/>
+
+        <TextView
+            android:id="@+id/dPhoneText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/dRatingText"
+            android:layout_marginStart="25dp"/>
+
+        <TextView
+            android:id="@+id/dAddress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/dPhoneText"
+            android:layout_marginStart="25dp"/>
+
+
+    </RelativeLayout>
+
+</LinearLayout>

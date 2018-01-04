@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nandita Rai\AndroidStudioProjects\Nearby\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="C:\Users\Nandita Rai\AndroidStudioProjects\Nearby\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.6.1_ebd501caff8cce3176aab8ec218a17aca300246b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nandita Rai\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.0\5c06d197fb7fa875ad452f562e3310dd9949d066\retrofit-2.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5c06d197fb7fa875ad452f562e3310dd9949d066">
+        <dex dex="C:\Users\Nandita Rai\AndroidStudioProjects\Nearby\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.0.0_0f366d84e45ecfe13820ef93d4afce578c7dbe2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nandita Rai\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="C:\Users\Nandita Rai\AndroidStudioProjects\Nearby\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.2.0_0331ded2cac317652cb2d990a66befc3211cc094\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nandita Rai\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\Nandita Rai\AndroidStudioProjects\Nearby\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_c45d36646e4be525ff5ceab570ff6c6eb373fae0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nandita Rai\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.7.2\84ffa765dd258dbab8695963c41308b054f3a1cb\jackson-databind-2.7.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="84ffa765dd258dbab8695963c41308b054f3a1cb">
+        <dex dex="C:\Users\Nandita Rai\AndroidStudioProjects\Nearby\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-databind-2.7.2_2b711076f440b23c393a231e6e5a14979328e71b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nandita Rai\AndroidStudioProjects\Nearby\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="C:\Users\Nandita Rai\AndroidStudioProjects\Nearby\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.6.1_bffc9dfdef42ea338bc2c38adcc6faf70a44d7e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nandita Rai\.gradle\caches\modules-2\files-2.1\oauth.signpost\signpost-core\1.2.1.2\bf95955dcf3d5a78c201e49b0c336787ea73f161\signpost-core-1.2.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="bf95955dcf3d5a78c201e49b0c336787ea73f161">
+        <dex dex="C:\Users\Nandita Rai\AndroidStudioProjects\Nearby\app\build\intermediates\transforms\dex\debug\folders\1000\10\signpost-core-1.2.1.2_44f7ec1d20c1e3c55e05b1997f8a446c59938230\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nandita Rai\AndroidStudioProjects\Nearby\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="C:\Users\Nandita Rai\AndroidStudioProjects\Nearby\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.6.1_ded94c5596d839c80d222441186e1603ce9b7e97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nandita Rai\AndroidStudioProjects\Nearby\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Nandita Rai\AndroidStudioProjects\Nearby\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_cf51f5427b2357f9e7f0ddf69b652b375122e381\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nandita Rai\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-jackson\2.0.0\9506825ddc5a43b38a3d104db913ff0f4cb2e323\converter-jackson-2.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9506825ddc5a43b38a3d104db913ff0f4cb2e323">
+        <dex dex="C:\Users\Nandita Rai\AndroidStudioProjects\Nearby\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-jackson-2.0.0_3c4483110fb67cabad099cfe092a023dabe75905\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\Users\Nandita Rai\AndroidStudioProjects\Nearby\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.2.4_313aff129984a0a45e086871ec03bfcc02e7284e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nandita Rai\.gradle\caches\modules-2\files-2.1\commons-codec\commons-codec\1.3\fd32786786e2adb664d5ecc965da47629dca14ba\commons-codec-1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fd32786786e2adb664d5ecc965da47629dca14ba">
+        <dex dex="C:\Users\Nandita Rai\AndroidStudioProjects\Nearby\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-codec-1.3_b250c11efef759d14304fc6b30d65eec00186214\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nandita Rai\AndroidStudioProjects\Nearby\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="62ff84124b89177abc0c27f3e38c9732f2d41617">
+        <dex dex="C:\Users\Nandita Rai\AndroidStudioProjects\Nearby\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.6.1_13ceac0e0254989b080d0e26bed8900181da3730\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nandita Rai\.gradle\caches\modules-2\files-2.1\se.akerfeldt\okhttp-signpost\1.1.0\544600ae042f8fc113acb612ef30c69144b685d4\okhttp-signpost-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="544600ae042f8fc113acb612ef30c69144b685d4">
+        <dex dex="C:\Users\Nandita Rai\AndroidStudioProjects\Nearby\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-signpost-1.1.0_7de4ffa6d7658f18b180b45981335e41f8030bee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nandita Rai\AndroidStudioProjects\Nearby\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8b6cf8ba5ec17f2dccc322599df5a3c7479640b4">
+        <dex dex="C:\Users\Nandita Rai\AndroidStudioProjects\Nearby\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7504aa3e93166e04c4d633cd0b69c7eda15c97eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nandita Rai\AndroidStudioProjects\Nearby\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Nandita Rai\AndroidStudioProjects\Nearby\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ed9bf3b7cf07e93140291bc97c7f97f3289bfe45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Nandita Rai\AndroidStudioProjects\Nearby\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_10cd953c940accdea77ebb67004f63b8f836c70e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nandita Rai\AndroidStudioProjects\Nearby\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Nandita Rai\AndroidStudioProjects\Nearby\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_c7322ea37bf3c3f87239a7cfb177ef3206721ad7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nandita Rai\AndroidStudioProjects\Nearby\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Nandita Rai\AndroidStudioProjects\Nearby\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_4eed201e4afcb7171fa345f0abb80949597eff40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nandita Rai\AndroidStudioProjects\Nearby\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Nandita Rai\AndroidStudioProjects\Nearby\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_1131df5471c6de5f16cf3049cdc66981d786a779\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nandita Rai\AndroidStudioProjects\Nearby\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="79f521967ad7f49b34748db89df02852c2b2f87b">
+        <dex dex="C:\Users\Nandita Rai\AndroidStudioProjects\Nearby\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.6.1_bc43b7ff9ad1c338845a95d6ce23c8727551e38f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nandita Rai\AndroidStudioProjects\Nearby\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9e2c8c8985713ee2a0a4b629002c4b7ee0f6820d">
+        <dex dex="C:\Users\Nandita Rai\AndroidStudioProjects\Nearby\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_145ca1ba156f913b119dfc33de3bb1780e563bd4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nandita Rai\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.7.2\8b8310381b690e317f5f0574e9b2dd7034778b4c\jackson-core-2.7.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8b8310381b690e317f5f0574e9b2dd7034778b4c">
+        <dex dex="C:\Users\Nandita Rai\AndroidStudioProjects\Nearby\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-core-2.7.2_a3c93f8c1c6579a53bfe447bfe4f1c6615535219\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nandita Rai\AndroidStudioProjects\Nearby\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Nandita Rai\AndroidStudioProjects\Nearby\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_4f838dd1a1d223f544552d8784b0898c510f93c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nandita Rai\AndroidStudioProjects\Nearby\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Nandita Rai\AndroidStudioProjects\Nearby\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_cfa31caa825dcd4e12d99b5978f84c0dd801427d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nandita Rai\AndroidStudioProjects\Nearby\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Nandita Rai\AndroidStudioProjects\Nearby\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_9d4a9f6a0fec21109b1f9b7f7a65a6693d875815\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nandita Rai\AndroidStudioProjects\Nearby\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Nandita Rai\AndroidStudioProjects\Nearby\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_cb569237733320c13ffdca0b91ab42b8aa2e769d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nandita Rai\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.4.0\f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2\picasso-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="C:\Users\Nandita Rai\AndroidStudioProjects\Nearby\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.4.0_827f3f4998a4a67b33587c9be2e9ea0945fb4b96\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nandita Rai\AndroidStudioProjects\Nearby\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Nandita Rai\AndroidStudioProjects\Nearby\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_e656a74b113058f4d2648aa2c88cab83e6df5c86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nandita Rai\AndroidStudioProjects\Nearby\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Nandita Rai\AndroidStudioProjects\Nearby\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_dd573c995342b44c1b40efacbbfc6fb9cad4bc1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nandita Rai\.gradle\caches\modules-2\files-2.1\com.yelp.clientlib\yelp-android\2.0.0\891f25cda5cc11278999b1e59259565dbc1e0a11\yelp-android-2.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="891f25cda5cc11278999b1e59259565dbc1e0a11">
+        <dex dex="C:\Users\Nandita Rai\AndroidStudioProjects\Nearby\app\build\intermediates\transforms\dex\debug\folders\1000\10\yelp-android-2.0.0_d85c20c85c667b9d1ef6c025cdf19b17729b7867\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nandita Rai\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.7.0\19f42c154ffc689f40a77613bc32caeb17d744e3\jackson-annotations-2.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="19f42c154ffc689f40a77613bc32caeb17d744e3">
+        <dex dex="C:\Users\Nandita Rai\AndroidStudioProjects\Nearby\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-annotations-2.7.0_bc14bf6a903fa7f445225b51f61a09f64d88a504\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nandita Rai\.gradle\caches\modules-2\files-2.1\com.google.auto.value\auto-value\1.1\f6951c141ea3e89c0f8b01da16834880a1ebf162\auto-value-1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f6951c141ea3e89c0f8b01da16834880a1ebf162">
+        <dex dex="C:\Users\Nandita Rai\AndroidStudioProjects\Nearby\app\build\intermediates\transforms\dex\debug\folders\1000\10\auto-value-1.1_763071ab2e318469ba9b065f2ec0ef46bcc41b8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nandita Rai\AndroidStudioProjects\Nearby\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Nandita Rai\AndroidStudioProjects\Nearby\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_15def3f5eefc45c7b289e20fe8d7d3913be92383\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nandita Rai\AndroidStudioProjects\Nearby\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Nandita Rai\AndroidStudioProjects\Nearby\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_0cd71fd6b6f7f33f102ceb4519030b9c53c3c6b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nandita Rai\AndroidStudioProjects\Nearby\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Nandita Rai\AndroidStudioProjects\Nearby\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_0a4ee4b5e4f5acb3d8438c78392790c891248a3a\classes.dex" />
+    </item>
+
+</items>

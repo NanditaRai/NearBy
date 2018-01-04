@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/dRatingImage"
+            android:layout_width="150dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="@dimen/margin_left"
+            android:layout_marginTop="13dp"
+            android:contentDescription="@string/rating_image" />
+
+        <TextView
+            android:id="@+id/dRatingText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif"
+            android:textSize="20sp"
+            android:textColor="@color/colorPrimaryDark"
+            android:layout_marginStart="@dimen/margin_left" />
+
+        <TextView
+            android:id="@+id/categories"
+            android:textSize="20sp"
+            android:fontFamily="sans-serif"
+            android:textColor="@color/colorPrimaryDark"
+            android:layout_marginStart="@dimen/margin_left"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/dReviewCount"
+            android:textSize="20sp"
+            android:fontFamily="sans-serif"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/margin_left"
+            android:textColor="@color/colorPrimaryDark" />
+
+        <TextView
+            android:id="@+id/dPhoneText"
+            android:textSize="20sp"
+            android:layout_width="wrap_content"
+            android:fontFamily="sans-serif"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorPrimaryDark"
+            android:layout_marginStart="@dimen/margin_left" />
+
+        <TextView
+            android:id="@+id/dAddress"
+            android:textSize="20sp"
+            android:fontFamily="sans-serif"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorPrimaryDark"
+            android:layout_marginStart="@dimen/margin_left" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/margin_left"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/snippet_image"
+            android:layout_gravity="center"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            />
+
+        <TextView
+            android:layout_marginTop="20dp"
+            android:id="@+id/snippet_text"
+            android:fontFamily="cursive"
+            android:textSize="25sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+
+</LinearLayout>

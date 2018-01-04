@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Nearby</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="favorites">Favorites</string>
+    <string name="add_favorite">Added to Favorites</string>
+    <string name="remove_favorite">Removed from Favorites</string>
+    <string name="no_list_items">No item to show</string>
+    <string name="no_list_msg">Enter location in the search View and tap Search Button</string>
+    <string name="gps_not_available">Finishing test case since Google Play Services are not available</string>
+    <string name="gps_available">Google Play Services available.</string>
+    <string name="current_position">Current location</string>
+    <string name="search">Search</string>
+    <string name="search_location_here">Search Location Here</string>
+    <string name="see_list">Hotels</string>
+    <string name="see_favorite_list">Favorite Hotels</string>
+    <string name="rating_image">Star Rating Image</string>
+    <string name="hotel_image">Image Of Hotel</string>
+    <string name="filter">Filter</string>
+    <string name="rating_text">Rating :  %1$s</string>
+    <string name="phone_text">Phone : %1$s </string>
+    <string name="review_count">%1$s  Reviews</string>
+    <string name="location_text">Location : %1$s </string>
+    <string name="ok">OK</string>
+    <string name="permission_denied">Permission Denied</string>
+    <string name="null_pointer_exception">Null Value</string>
+    <string name="selected">Golden</string>
+    <string name="unselected">Gray</string>
+    <string name="button_clicked">Button Clicked</string>
+    <string name="place_list_key">Place List</string>
+    <string name="detail_key">Detail</string>
+
+</resources>

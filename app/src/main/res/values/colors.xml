@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#A52A2A</color>
+    <color name="colorPrimaryDark">#800000</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="view_divider_color">#BABABA</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="dark_grey">#696969</color>
+    <color name="orange">#FFA500</color>
+    <color name="maroon">#A52A2A</color>
+    <color name="pale_yellow">#EEE8AA</color>
+    <color name="light_yellow">#FFFFE0</color>
+    <color name="lemon_chiffon">#FFFACD</color>
+</resources>

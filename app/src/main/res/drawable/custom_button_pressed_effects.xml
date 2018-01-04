@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <padding android:top="7dp" android:right="7dp" android:left="7dp" android:bottom="7dp"/>
+
+    <item android:state_enabled="false" android:drawable="@drawable/button_disabled"/>
+
+    <item android:state_enabled="true" android:drawable="@drawable/button_pressed" android:state_pressed="true"/>
+
+    <item android:state_enabled="true" android:drawable="@drawable/button_focused" android:state_focused="true"/>
+
+    <item android:state_enabled="true" android:drawable="@drawable/button_enabled"/>
+
+
+</selector>
